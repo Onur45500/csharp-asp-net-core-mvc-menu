@@ -1,6 +1,6 @@
 ﻿namespace csharp_asp_net_core_mvc_menu.Models
 {
-    public class Menu
+    public class Dish
     {
         public int Id { get; set; }
 
